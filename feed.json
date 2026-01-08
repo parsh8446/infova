@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "infova.online",
+    "description": "",
+    "home_page_url": "https://infova.online",
+    "feed_url": "https://infova.online/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Parsh"
+    },
+    "items": [
+    ]
+}
