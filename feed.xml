@@ -3,10 +3,30 @@
     <title>infova.online</title>
     <link href="https://infova.online/feed.xml" rel="self" />
     <link href="https://infova.online" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-01-08T14:18:59+05:30</updated>
     <author>
         <name>Parsh</name>
     </author>
     <id>https://infova.online</id>
 
+    <entry>
+        <title>post 1</title>
+        <author>
+            <name>Parsh</name>
+        </author>
+        <link href="https://infova.online/post-1/"/>
+        <id>https://infova.online/post-1/</id>
+
+        <updated>2026-01-08T14:18:59+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    sample post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sample post</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
