@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://infova.online/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://parsh8446.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://infova.online/</loc>
+<loc>https://parsh8446.github.io/</loc>
 </url>
 <url>
-<loc>https://infova.online/about-us/</loc>
+<loc>https://parsh8446.github.io/about-us/</loc>
 <lastmod>2026-01-08T14:18:31+05:30</lastmod>
 </url>
 <url>
-<loc>https://infova.online/home/</loc>
+<loc>https://parsh8446.github.io/home/</loc>
 <lastmod>2026-01-08T14:18:18+05:30</lastmod>
 </url>
 <url>
-<loc>https://infova.online/post-1/</loc>
+<loc>https://parsh8446.github.io/post-1/</loc>
 <lastmod>2026-01-08T14:18:59+05:30</lastmod>
 </url>
 </urlset>

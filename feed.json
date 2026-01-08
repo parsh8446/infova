@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "infova.online",
     "description": "",
-    "home_page_url": "https://infova.online",
-    "feed_url": "https://infova.online/feed.json",
+    "home_page_url": "https://parsh8446.github.io",
+    "feed_url": "https://parsh8446.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Parsh"
     },
     "items": [
         {
-            "id": "https://infova.online/post-1/",
-            "url": "https://infova.online/post-1/",
+            "id": "https://parsh8446.github.io/post-1/",
+            "url": "https://parsh8446.github.io/post-1/",
             "title": "post 1",
             "summary": "sample post",
             "content_html": "<p>sample post</p>",
