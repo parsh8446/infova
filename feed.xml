@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>infova.online</title>
-    <link href="https://parsh8446.github.io/feed.xml" rel="self" />
-    <link href="https://parsh8446.github.io" />
+    <link href="https://www.infova.online/feed.xml" rel="self" />
+    <link href="https://www.infova.online" />
     <updated>2026-01-08T14:18:59+05:30</updated>
     <author>
         <name>Parsh</name>
     </author>
-    <id>https://parsh8446.github.io</id>
+    <id>https://www.infova.online</id>
 
     <entry>
         <title>post 1</title>
         <author>
             <name>Parsh</name>
         </author>
-        <link href="https://parsh8446.github.io/post-1/"/>
-        <id>https://parsh8446.github.io/post-1/</id>
+        <link href="https://www.infova.online/post-1/"/>
+        <id>https://www.infova.online/post-1/</id>
 
         <updated>2026-01-08T14:18:59+05:30</updated>
             <summary type="html">
