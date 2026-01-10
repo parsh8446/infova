@@ -3,7 +3,7 @@
     <title>infova</title>
     <link href="https://www.infova.online/feed.xml" rel="self" />
     <link href="https://www.infova.online" />
-    <updated>2026-01-10T17:12:22+05:30</updated>
+    <updated>2026-01-10T17:17:50+05:30</updated>
     <author>
         <name>Parsh</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://www.infova.online/exploring-india-top-destinations-for-trip-and-learning/"/>
         <id>https://www.infova.online/exploring-india-top-destinations-for-trip-and-learning/</id>
         <media:content url="https://www.infova.online/media/posts/11/india-tourisom.jpg" medium="image" />
+            <category term="Traval"/>
 
         <updated>2026-01-10T17:06:04+05:30</updated>
             <summary type="html">
