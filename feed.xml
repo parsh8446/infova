@@ -3,7 +3,7 @@
     <title>infova</title>
     <link href="https://www.infova.online/feed.xml" rel="self" />
     <link href="https://www.infova.online" />
-    <updated>2026-01-11T14:52:35+05:30</updated>
+    <updated>2026-01-11T15:21:39+05:30</updated>
     <author>
         <name>Parsh</name>
     </author>
@@ -17,6 +17,10 @@
         <link href="https://www.infova.online/drdo-scramjet-hypersonic-breakthrough-india-2026/"/>
         <id>https://www.infova.online/drdo-scramjet-hypersonic-breakthrough-india-2026/</id>
         <media:content url="https://www.infova.online/media/posts/16/DRDO-scramjet-combustor-test-facility-Hyderabad-Source-PIB.webp" medium="image" />
+            <category term="Trending"/>
+            <category term="Science"/>
+            <category term="India News"/>
+            <category term="Breaking News"/>
 
         <updated>2026-01-11T14:46:48+05:30</updated>
             <summary type="html">
