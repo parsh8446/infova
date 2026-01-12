@@ -3,12 +3,59 @@
     <title>infova</title>
     <link href="https://www.infova.online/feed.xml" rel="self" />
     <link href="https://www.infova.online" />
-    <updated>2026-01-11T18:26:33+05:30</updated>
+    <updated>2026-01-12T19:26:34+05:30</updated>
     <author>
         <name>Parsh</name>
     </author>
     <id>https://www.infova.online</id>
 
+    <entry>
+        <title>AayulSAT Aims to Pioneer On‑Orbit Refuelling</title>
+        <author>
+            <name>Parsh</name>
+        </author>
+        <link href="https://www.infova.online/pslv-c62-launch-indias-aayulsat-on-orbit-refuelling-test/"/>
+        <id>https://www.infova.online/pslv-c62-launch-indias-aayulsat-on-orbit-refuelling-test/</id>
+        <media:content url="https://www.infova.online/media/posts/19/AayulSAT.jpg" medium="image" />
+            <category term="Technology"/>
+            <category term="Science"/>
+            <category term="India News"/>
+
+        <updated>2026-01-12T19:26:34+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.infova.online/media/posts/19/AayulSAT.jpg" alt="India’s first on‑orbit satellite refuelling technology demonstrator" />
+                    Among the payloads aboard PSLV‑C62 was AayulSAT, developed by Chennai‑based space technology startup OrbitAID Aerospace. The 25‑kilogram satellite is billed as India’s first on‑orbit satellite refuelling technology demonstrator, tasked with testing the transfer of propellant, power and data in low Earth orbit capabilities that could&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.infova.online/media/posts/19/AayulSAT.jpg" class="type:primaryImage" alt="India’s first on‑orbit satellite refuelling technology demonstrator" /></p>
+                <p data-start="1522" data-end="1989">Among the payloads aboard PSLV‑C62 was <strong data-start="1561" data-end="1573">AayulSAT</strong>, developed by Chennai‑based space technology startup <strong data-start="1627" data-end="1649">OrbitAID Aerospace</strong>. The 25‑kilogram satellite is billed as <strong data-start="1690" data-end="1761">India’s first on‑orbit satellite refuelling technology demonstrator</strong>, tasked with testing the transfer of propellant, power and data in low Earth orbit capabilities that could one day help extend the operational lives of spacecraft and reduce space debris.</p>
+<p data-start="1991" data-end="2388">OrbitAID’s mission is built around a proprietary docking and transfer interface, the <strong data-start="2076" data-end="2138">Standard Interface for Docking and Refuelling Port (SIDRP)</strong>. By demonstrating fuel flow and connectivity in a microgravity environment, AayulSAT is intended to pave the way for future commercial services where satellites could be routinely serviced or refuelled in space.</p>
+<p data-start="1991" data-end="2388"><strong>Also Read:</strong> <a href="https://www.infova.online/starlink-direct-to-phone-beta-2026-good-bad-glitches/">Starlink Direct-to-Phone in 2026: Reality Check on a Satellite Revolution That Still Stumbles in the Wild</a></p>
+<p data-start="2390" data-end="2693">“The goal is to test propellant, power and data transfer in orbit and to mature the technology for future commercial services,” said company executives in prior interviews. The startup has described the initiative as foundational for building an “on‑orbit economy.”</p>
+<h3 data-start="2695" data-end="2756"><strong data-start="2699" data-end="2756">Payload Spread Highlights Emerging Space Capabilities</strong></h3>
+<p data-start="2758" data-end="3052">In addition to AayulSAT and EOS‑N1, PSLV‑C62 was reported to carry a diverse assortment of payloads. These include technology and research satellites from Indian academic institutions and commercial entities, along with international experimental payloads.</p>
+<p data-start="3054" data-end="3388">One notable secondary mission involves satellites such as <strong data-start="3112" data-end="3121">MOI‑1</strong>, developed by Hyderabad‑based startups TakeMe2Space and Eon Space Labs, which is intended as an orbital image‑processing laboratory leveraging artificial intelligence a concept likened in media coverage to a “space cybercafe.”</p>
+<p data-start="3054" data-end="3388"><strong>Also Read:  </strong><a href="https://www.infova.online/3iatlas-latest-updates-on-the-interstellar-visitor-traversing-our-solar-system/">3I/ATLAS: Latest Updates on the Interstellar Visitor Traversing Our Solar System</a></p>
+<p data-start="3390" data-end="3633">Another is Spain’s <strong data-start="3409" data-end="3433">KID re‑entry capsule</strong>, a technology demonstrator for controlled atmospheric re‑entry operations designed to separate from the PSLV’s fourth stage and splash down in the South Pacific.</p>
+<h3 data-start="3635" data-end="3694"><strong data-start="3639" data-end="3694">Anomaly Emerges in Flight; Orbit Injection Affected</strong></h3>
+<p data-start="3696" data-end="4107">Shortly after liftoff, however, mission controllers observed an <strong data-start="3760" data-end="3804">anomaly during the third stage of flight</strong>, leading to a deviation from the planned trajectory. Indian Space Research Organisation (ISRO) officials later confirmed that the vehicle did not achieve the velocity and orbital insertion required to place its satellites into their intended sun‑synchronous orbit.</p>
+<p data-start="4109" data-end="4491">Preliminary data indicate that the third stage underperformed due to a drop in propulsion efficiency, causing the rocket to veer off course. As a result, the satellites including EOS‑N1, AayulSAT and others onboard could not be deployed into their operational orbits. ISRO said telemetry analysis is underway to determine the precise cause.</p>
+<p data-start="4109" data-end="4491"><strong>Also Read: </strong><a href="https://www.infova.online/3iatlas-latest-updates-on-the-interstellar-visitor-traversing-our-solar-system/">3I/ATLAS: Latest Updates on the Interstellar Visitor Traversing Our Solar System</a></p>
+<p data-start="4493" data-end="4866">Today’s setback follows an earlier PSLV anomaly in May 2025, when <strong data-start="4559" data-end="4571">PSLV‑C61</strong> failed to place the EOS‑09 satellite into orbit due to a third‑stage issue. While the PSLV family has a long history of reliable service, consecutive anomalies have drawn scrutiny and intensified focus on quality assurance processes in launch operations.</p>
+<h3 data-start="4868" data-end="4923"><strong data-start="4872" data-end="4923">Impact on India’s Satellite Servicing Ambitions</strong></h3>
+<p data-start="4925" data-end="5276">The unsuccessful orbit injection is a blow to all payload owners, but the effort to demonstrate on‑orbit refuelling remains a milestone attempt for India’s fledgling space technology ecosystem. AayulSAT’s concept even if it did not reach orbit today reflects a strategic shift in how Indian firms and agencies envision future satellite operations.</p>
+<p data-start="5278" data-end="5665">On‑orbit servicing, which includes fuel transfer and docking, has largely been the preserve of major space agencies and a handful of pioneering missions globally. If proven, these technologies could redefine satellite economics by enabling operators to maintain, refuel or reposition spacecraft long after their initial fuel reserves are depleted.</p>
+<p data-start="5667" data-end="5969">Industry observers say private startups like OrbitAID, buoyed by broader reforms in India’s space regulatory landscape, are increasingly pushing boundaries in areas once dominated by government programmes. Today’s mission was a tangible expression of that shift.</p>
+<p data-start="5667" data-end="5969">Also Read: <a href="https://www.infova.online/drdo-scramjet-hypersonic-breakthrough-india-2026/">DRDO Scramjet Breakthrough: India's 12-Minute Hypersonic Test Puts Nation Among Elite (2026)</a></p>
+<h3 data-start="5971" data-end="5992"><strong data-start="5975" data-end="5992">Looking Ahead</strong></h3>
+<p data-start="5994" data-end="6203">ISRO’s immediate priority will be technical review and failure analysis, with detailed telemetry and propulsion data now under examination. The outcomes will inform corrective actions for future PSLV missions.</p>
+<p data-start="6205" data-end="6583">For the companies and institutions whose satellites were aboard PSLV‑C62, new launch opportunities will be sought to fulfil their science and technology objectives. And for efforts like orbital refuelling, the broader ambition remains alive: the vision of satellites that can be serviced and sustained long after launch, reshaping how space infrastructure is built and operated.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Starlink Direct-to-Phone in 2026: Reality Check on a Satellite Revolution That Still Stumbles in the Wild</title>
         <author>
@@ -846,80 +893,6 @@
 <p data-start="4100" data-end="4630">Looking ahead through this wild Indian auto landscape where folks crave smart tech in their rides – that's the game now! The XUV 7XO is Mahindra throwing down a challenge by mixing new-fangled goodies with classics they’re already known for. And as I look into our crystal ball to '26 and beyond, it all boils down to keeping their customers coming back – ‘cause in the end, we just want an SUV that's cooler than a cucumber but also feels like home sweet-home (and one where you can enjoy your music without tripping over wires).</p>
 <h2 data-start="4632" data-end="4683"><strong data-start="4632" data-end="4683">Conclusion: A Bold Curveball With Familiar Soul</strong></h2>
 <p data-start="4685" data-end="5115">So here’s what it boils down to: Mahindra threw us this curveball with the XUV 7XO, and we're still riding high on their trusted name. We look out for every detail – from that spiffy exterior design straight through to our driving comfort inside – because after all these years of getting around in SUVs (and a bunch more), let’s not forget how much they can mean when everything just feels right, both stylish and substance-wise.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Raja Saab 2026 Review &amp; Live Updates: Prabhas’ Horror-Comedy Opens Amid Mixed Buzz</title>
-        <author>
-            <name>Parsh</name>
-        </author>
-        <link href="https://www.infova.online/the-raja-saab-2026-review-and-live-updates-prabhas-horror-comedy-opens-amid-mixed-buzz/"/>
-        <id>https://www.infova.online/the-raja-saab-2026-review-and-live-updates-prabhas-horror-comedy-opens-amid-mixed-buzz/</id>
-        <media:content url="https://www.infova.online/media/posts/8/WSL.webp" medium="image" />
-            <category term="Trending"/>
-            <category term="India News"/>
-
-        <updated>2026-01-09T14:31:11+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.infova.online/media/posts/8/WSL.webp" alt="The Raja Saab 2026 Review" />
-                    The year 2026 began with a bang in Indian cinema as The Raja Saab, starring Prabhas, released in theatres nationwide on January 9. The film, directed by Maruthi, was highly anticipated because of Prabhas’ massive fan following and its festive Sankranti release. Even before the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.infova.online/media/posts/8/WSL.webp" class="type:primaryImage" alt="The Raja Saab 2026 Review" /></p>
-                <p data-start="358" data-end="753">The year 2026 began with a bang in Indian cinema as <em data-start="410" data-end="425">The Raja Saab</em>, starring Prabhas, released in theatres nationwide on <strong data-start="480" data-end="493">January 9</strong>. The film, directed by Maruthi, was highly anticipated because of Prabhas’ massive fan following and its festive Sankranti release. Even before the release, advance bookings showed solid traction in southern states, and the film generated major hype online.</p>
-<p data-start="755" data-end="863">At the end of the day, fans eagerly awaited the mix of horror, fantasy, and comedy promised by the makers.</p>
-<hr data-start="865" data-end="868">
-<p data-start="870" data-end="892"><strong data-start="870" data-end="890">Why This Matters</strong></p>
-<p data-start="894" data-end="1235">From the very first trailers, audiences were intrigued by the palace setting, supernatural elements, and humorous twists. Really, the film was positioned as a <strong data-start="1053" data-end="1107">family-friendly horror-comedy with a fantasy twist</strong> rather than a straight scare-fest. This strategy built anticipation of an entertaining yet lighthearted cinematic experience.</p>
-<p data-start="1237" data-end="1446">The reality is, early chatter suggested that while viewers were excited, they were also curious if the film could live up to the promise of Prabhas’ star power combined with a unique storytelling experiment.</p>
-<div class="video-container">
-<div class="video-container"><div class="post__iframe"><iframe loading="lazy" style="width: 617px; height: 277px; border: 0px;" src="https://www.youtube-nocookie.com/embed/wT4HcYAeV5U?origin=https://www.infova.online&amp;enablejsapi=1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="no-referrer-when-downgrade" allowfullscreen="allowfullscreen">
-    </iframe></div></div>
-</div>
-<hr data-start="1448" data-end="1451">
-<p data-start="1453" data-end="1496"><strong data-start="1453" data-end="1494">Advance Bookings and Pre-Release Buzz</strong></p>
-<p data-start="1498" data-end="1758">In Andhra Pradesh and Telangana, advance ticket sales were particularly strong, with several theatres reporting near-full occupancy even before the official release. In comparison, other regions, including the Hindi-speaking belt, had more moderate bookings.</p>
-<p data-start="1760" data-end="2062">While the movie had a strong start in the south, it would rely heavily on <strong data-start="1834" data-end="1851">word-of-mouth</strong> to sustain performance in other parts of India, analysts noted. The initial interest was also reflected in early social media discussions, with fans debating expectations, plot teasers, and character reveals.</p>
-<p data-start="2064" data-end="2351">The Sankranti release window usually boosts family-oriented films, and <em data-start="2135" data-end="2150">The Raja Saab</em> benefited from this timing. That said, the disparity in regional pre-sales highlighted that while Prabhas’ presence drew viewers, the horror-comedy blend remained a question mark for some audiences.</p>
-<p><strong><a href="https://www.infova.online/tata-wpl-2026-starts-today-a-fresh-time-of-year-2026/">Tata WPL 2026 Starts Today</a></strong></p>
-<hr data-start="2353" data-end="2356">
-<p data-start="2358" data-end="2395"><strong data-start="2358" data-end="2393">Critical Reception: A Mixed Bag</strong></p>
-<p data-start="2397" data-end="2693">Once the movie premiered, early reviews painted a split picture. Critics appreciated Prabhas’ screen presence, noting that he brought charisma and energy to scenes that might have otherwise fallen flat. The emotional climax and some humorous sequences were also highlighted as engaging moments.</p>
-<p data-start="2695" data-end="3032">However, several reviewers criticized the screenplay for being uneven and the pacing inconsistent. The blend of horror, fantasy, and comedy did not always gel, leaving some scenes feeling forced or disjointed. The comedic beats, while entertaining at times, did not always land effectively, and certain plot points felt underdeveloped.</p>
-<p data-start="3034" data-end="3160">Overall, the critical consensus suggested that the film’s concept was promising, but the execution lacked cohesion in parts.</p>
-<hr data-start="3162" data-end="3165">
-<p data-start="3167" data-end="3213"><strong data-start="3167" data-end="3211">Audience Reactions and Social Media Buzz</strong></p>
-<p data-start="3215" data-end="3625">The audience response reflected a similar split. Social media platforms were buzzing with opinions ranging from enthusiastic support to sharp critique. Many viewers expressed disappointment in the film’s storytelling, feeling that the horror elements were predictable and the comedic moments inconsistent. Comments such as “confusing narration” and “lost potential” appeared frequently in online discussions.</p>
-<p data-start="3627" data-end="3915">Conversely, a section of fans appreciated Prabhas’ performance, the visual spectacle of the palace setting, and the emotional payoffs in the second half. They noted that despite narrative shortcomings, the film offered moments of entertainment and spectacle that made it worth watching.</p>
-<p data-start="3917" data-end="4067">This split in reaction created substantial online conversation, keeping <em data-start="3989" data-end="4004">The Raja Saab</em> trending across platforms in the days following its release.</p>
-<hr data-start="4069" data-end="4072">
-<p data-start="4074" data-end="4108"><strong data-start="4074" data-end="4106">Controversies and Extra Buzz</strong></p>
-<p data-start="4110" data-end="4313">Adding to the movie’s online chatter was a controversy regarding alleged attempts to influence reviews. While the claims were unverified, the discussion fueled further engagement and debate among fans.</p>
-<p data-start="4315" data-end="4505">In addition, discussions on fan forums and social media highlighted the differing expectations between die-hard supporters and casual viewers, especially regarding the horror-comedy blend.</p>
-<hr data-start="4507" data-end="4510">
-<p data-start="4512" data-end="4550"><strong data-start="4512" data-end="4548">Technical Aspects and Production</strong></p>
-<p data-start="4552" data-end="4870">The film’s technical aspects drew mixed reactions. The visual effects, intended to create a magical and eerie palace environment, were praised for ambition but criticized for inconsistency. While certain sequences showcased impressive production design, others fell short, affecting the overall immersive experience.</p>
-<p data-start="4872" data-end="5052">Cinematography captured the grandeur of the setting, and the background score supported emotional beats, though some viewers felt it did little to elevate the suspense or horror.</p>
-<p data-start="5054" data-end="5318">Music, composed to complement both comedic and dramatic moments, received a lukewarm response. While certain tracks were energetic, they did not leave a lasting impression, and reviewers noted that the soundtrack failed to significantly enhance the storytelling.</p>
-<hr data-start="5320" data-end="5323">
-<p data-start="5325" data-end="5369"><strong data-start="5325" data-end="5367">Box Office Performance and Projections</strong></p>
-<p data-start="5371" data-end="5649">Initial box office collections suggest a decent start in southern states, particularly Andhra Pradesh and Telangana, where Prabhas’ fan base is strongest. Domestic earnings were bolstered by the festive period, though early estimates indicated a slower start in other regions.</p>
-<p data-start="5651" data-end="6035">Analysts noted that the film’s long-term success would depend heavily on <strong data-start="5724" data-end="5763">word-of-mouth and repeat viewership</strong>, particularly outside the core southern market. Internationally, the film garnered attention in key overseas markets, with early ticket sales showing strong interest. However, sustained success would rely on audience reception once reviews and feedback spread globally.</p>
-<hr data-start="6037" data-end="6040">
-<p data-start="6042" data-end="6066"><strong data-start="6042" data-end="6064">Audience Takeaways</strong></p>
-<p data-start="6068" data-end="6348">Despite mixed reactions, <em data-start="6093" data-end="6108">The Raja Saab</em> managed to spark conversation, which is often the hallmark of a high-profile release. For some, it offered entertainment, emotional moments, and comic relief. For others, it highlighted missed opportunities in storytelling and execution.</p>
-<p data-start="6350" data-end="6853">The film’s divided response reflects a growing trend where audiences are more critical and discerning, analyzing both narrative coherence and technical performance. Online discussions demonstrate passionate engagement from both fans and general moviegoers. Negative reactions keep the film in public discourse, while positive feedback on Prabhas’ performance and select sequences helps retain interest. This dynamic ensures that the film stays relevant in conversation well beyond its opening weekend.</p>
-<hr data-start="6855" data-end="6858">
-<p data-start="6860" data-end="6913"><strong data-start="6860" data-end="6911">Conclusion: A Mixed but Memorable Start to 2026</strong></p>
-<p data-start="6915" data-end="7131"><em data-start="6915" data-end="6930">The Raja Saab</em> opened 2026 with significant attention and anticipation. It is a film that, despite flaws, demonstrates the power of star appeal, festive timing, and a unique genre approach in attracting audiences.</p>
-<p data-start="7133" data-end="7294">While critical and audience reactions are mixed, moments of entertainment, spectacle, and emotional resonance provide reasons for fans to engage with the film.</p>
-<p data-start="7296" data-end="7496">The ultimate fate of the movie in terms of box office success will likely depend on <strong data-start="7380" data-end="7493">word-of-mouth, regional appeal, and the ability of the horror-comedy blend to resonate with diverse audiences</strong>.</p>
-<p data-start="7498" data-end="7694">Whether it becomes a memorable festival hit, a sleeper success, or a polarizing entry in Prabhas’ career, <em data-start="7604" data-end="7619">The Raja Saab</em> has ensured it remains one of the most talked-about films of early 2026.</p>
-<p data-start="7498" data-end="7694"> </p>
             ]]>
         </content>
     </entry>
